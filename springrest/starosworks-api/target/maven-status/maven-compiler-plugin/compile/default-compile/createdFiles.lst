@@ -1,0 +1,3 @@
+com\star\starosworks\StarosworksApiApplication.class
+com\star\starosworks\api\controller\ClienteController.class
+com\star\starosworks\domain\model\Cliente.class
